@@ -45,6 +45,8 @@ and just ask the editors to select the category.
 
 ### Project/Tooling Updates
 
+* [BugStalker v0.4.0 - Modern debugger for Linux x86-64. Written in Rust for Rust programs.](https://www.reddit.com/r/rust/comments/1q4kkqm/bugstalker_v040_released_a_modern_rust_debugger/) now with VSCode support.
+
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
